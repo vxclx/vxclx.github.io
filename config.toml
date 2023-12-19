@@ -11,6 +11,20 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "新闻"
+    url = "/posts/"
+    weight = 2
+
+
 
 [sitemap]
   changefreq = "monthly"

@@ -1,4 +1,4 @@
-title = "Vxclx"
+title = "春节"
 baseURL = "https://vxclx.github.io"
 languageCode = "en-us"
 theme = ["gohugo-theme-ananke"]
@@ -17,12 +17,6 @@ defaultMarkdownHandler = "goldmark"
 [markup.goldmark.renderer]
 unsafe = true
 
-[menu]
-  [[menu.main]]
-    identifier = "blog"
-    name = "新闻"
-    url = "/posts/"
-    weight = 2
 
 
 
@@ -41,6 +35,4 @@ unsafe = true
   background_color_class = "bg-black"
   recent_posts_number = 3
 
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/vxclx"
+

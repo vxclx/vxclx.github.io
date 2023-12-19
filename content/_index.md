@@ -1,10 +1,10 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "春节(中国传统节假日)"
 
-description: "The last theme you'll ever need. Maybe."
+description: "春节 传统节日仪式与习俗活动，是节日元素的重要内容，承载着丰富多彩的节日文化底蕴."
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/banner.jpg'
+  featured_image: '/images/rc.jpeg'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+

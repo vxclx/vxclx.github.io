@@ -84,4 +84,4 @@ featured_image: '/images/cj.jpg'
 
 发红包不仅是一种物质上的给予，更是一种精神上的关爱和祝福。通过发红包，长辈们希望晚辈们在新的一年里身体健康、学业有成、事业顺利。同时，发红包也寓意着传承和希望，代表着家族的繁荣和延续。
 总之，发红包是中国传统春节习俗之一，通过物质和精神上的给予，表达了人们对新年的庆祝和对美好生活的向往。发红包的习俗不仅具有浓厚的民族特色，还蕴含了丰富的历史、文化、哲学等元素，是中国传统文化的重要组成部分。是中国传统春节习俗之一，也是春节期间重要的社交礼仪。红包，又称为“压岁钱”，主要是长辈们将钱装在红色纸包里，赠给晚辈，寓意着祝福和吉祥。
-<iframe src="//player.bilibili.com/player.html?aid=350419476&bvid=BV15R4y1e7i7&cid=969450134&p=1" scrolling="no" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="66.66667%" height="600px"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=350419476&bvid=BV15R4y1e7i7&cid=969450134&p=1" scrolling="no" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800px" height="600px"> </iframe>

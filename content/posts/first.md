@@ -2,6 +2,7 @@
 title: "春节介绍"
 date: 2023-12-19T14:50:23+08:00
 draft: false
+description: '            ——|中国传统节日'
 featured_image: '/images/bj.png'
 summary: '春节，又称为农历新年，是中国最重要的传统节日，也是全球华人最为重视的节日之一。'
 ---

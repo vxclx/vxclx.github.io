@@ -7,7 +7,7 @@ draft: false
 
 
 
-[西北民族大学](https://www.xbmu.edu.cn)是新中国第一所民族高等教育院校。
+[春节](https://ahkevinxy.github.io)春节最好的节假日
 
 
 

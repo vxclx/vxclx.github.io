@@ -13,7 +13,7 @@ summary: '老中青三代夜市 : 烟火经济助力兰州发展'
 
 ## 老中青三代夜市 : 烟火经济助力兰州发展
 
-夜市历史悠久，在唐代后期的大城市中就已出现。现今夜市所指
+  夜市历史悠久，在唐代后期的大城市中就已出现。现今夜市所指
 为夜间做买卖的市场，主要销售杂货、饮食小吃等商品，在我国大陆
 及台湾、香港等地更是平民生活文化的重要代表之一。党的二十大报告、
 2023 政府工作报告中多次提到适时扩大内需战略，中央经济工作报告
@@ -879,6 +879,6 @@ summary: '老中青三代夜市 : 烟火经济助力兰州发展'
 配合，感谢大家的包容与支持。祝愿我们都有一个美好的未来！
 
 
-<video id="video" controls="" preload="none" poster="封面" autopay >
+<video id="video" controls="" preload="none" poster="封面" autopay  width="600xp">
       <source id="mp4" src="/images/video.mp4" type="video/mp4">
 </videos>
